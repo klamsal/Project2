@@ -1,1 +1,1 @@
-# [My SuperStore Code](Kamal.ipynb)
+# [My SuperStore Code](kamal2.md)
